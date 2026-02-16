@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Where to Poop'
+theme = 'hugo-PaperMod-master'
